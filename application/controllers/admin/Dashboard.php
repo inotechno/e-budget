@@ -16,7 +16,7 @@
             $this->load->view('_partials/sidebar');
             $this->load->view('dashboard');
             $this->load->view('_partials/footer');
-            $this->load->view('services/dashboard');
+            $this->load->view('services/Dashboard');
         }
 
         public function get_debit_kredit()
@@ -41,4 +41,3 @@
     
     /* End of file Dashboard.php */
     /* Location: ./application/controllers/direktur/Dashboard.php */
-?>

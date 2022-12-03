@@ -1,0 +1,2 @@
+INSERT INTO `e-budget`.admin (username,email,password,nik,nama_lengkap,tempat_lahir,tanggal_lahir,alamat,hp,pekerjaan,pendidikan,agama,jenis_kelamin,foto,status,`level`,created_at,created_by) VALUES
+	 ('admin','','01425e4e021748f61f2b77becb81b9c2d397ed5fb2bd2bd25f818b15fb69d4f0e5fb41130b746cff4528cf56d86d50444f1fb1338589276b7bccd78cf0b93ecd','1235678','Administrator','Serang','1997-02-01','Kele','','','SD Sederajat','','Laki-Laki','admin.png','Aktif',1,'2020-06-17 12:25:09',1);

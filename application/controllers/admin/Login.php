@@ -57,7 +57,11 @@
 			echo json_encode($response);
 		}
 
+		public function create_password()
+		{
+			echo hash('sha512', $this->input->get('password') . config_item('encryption_key'));
+		}
+
 	}
 	/* End of file Login.php */
 	/* Location: ./application/controllers/Login.php */
- ?>
