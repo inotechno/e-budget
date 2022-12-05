@@ -1,6 +1,0 @@
-INSERT INTO `e-budget`.direktur (username,email,password,nama_lengkap,foto,status,`level`,created_at,created_by) VALUES
-	 ('direktur','direktur@gmail.com','01425e4e021748f61f2b77becb81b9c2d397ed5fb2bd2bd25f818b15fb69d4f0e5fb41130b746cff4528cf56d86d50444f1fb1338589276b7bccd78cf0b93ecd','Direktur','direktur.png','Aktif',3,'2020-07-01 17:00:54',11),
-	 ('direktur2','direktur2@gmail.com','01425e4e021748f61f2b77becb81b9c2d397ed5fb2bd2bd25f818b15fb69d4f0e5fb41130b746cff4528cf56d86d50444f1fb1338589276b7bccd78cf0b93ecd','Direktur 2','','Aktif',3,'2022-12-02 23:12:16',11),
-	 ('direktur3','direktur3@gmail.com','01425e4e021748f61f2b77becb81b9c2d397ed5fb2bd2bd25f818b15fb69d4f0e5fb41130b746cff4528cf56d86d50444f1fb1338589276b7bccd78cf0b93ecd','Direktur 3','','Aktif',3,'2022-12-02 23:12:32',11),
-	 ('direktur4','direktur4@gmail.com','01425e4e021748f61f2b77becb81b9c2d397ed5fb2bd2bd25f818b15fb69d4f0e5fb41130b746cff4528cf56d86d50444f1fb1338589276b7bccd78cf0b93ecd','Direktur 4','','Aktif',3,'2022-12-02 23:12:43',11),
-	 ('direktur5','direktur5@gmail.com','01425e4e021748f61f2b77becb81b9c2d397ed5fb2bd2bd25f818b15fb69d4f0e5fb41130b746cff4528cf56d86d50444f1fb1338589276b7bccd78cf0b93ecd','Direktur 5','','Aktif',3,'2022-12-02 23:12:52',11);

@@ -282,6 +282,10 @@ LOCK TABLES `user_group` WRITE;
 INSERT INTO `user_group` VALUES (1,'Administrator',1,'admin'),(2,'Karyawan',2,'karyawan'),(3,'Direktur',3,'direktur');
 /*!40000 ALTER TABLE `user_group` ENABLE KEYS */;
 UNLOCK TABLES;
+
+--
+-- Dumping routines for database 'e-budget'
+--
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
@@ -292,4 +296,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2022-12-05  9:56:10
+-- Dump completed on 2022-12-05 10:17:55
