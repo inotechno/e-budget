@@ -20,5 +20,18 @@ E-Budget App adalah aplikasi manajemen pengeluaran perusahaan yang memudahkan pe
 - [Screenshot Setting](screenshot/Administrator/Setting.png)
 - [Screenshot Buku Besar](screenshot/Direktur/BukuBesar.png)
 
+## Direktur
+- [Screenshot Dashboard](screenshot/Direktur/Dashboard.png)
+- [Screenshot Pengajuan Advance](screenshot/Direktur/PengajuanAdvance.png)
+- [Screenshot Pengajuan Expense](screenshot/Direktur/PengajuanExpanse.png)
+- [Screenshot Daftar Karyawan](screenshot/Direktur/DaftarKaryawan.png)
+- [Screenshot Buku Besar](screenshot/Direktur/BukuBesar.png)
+
+## Karyawan
+- [Screenshot Dashboard](screenshot/Karyawan/Dashboard.png)
+- [Screenshot Pengajuan Advance](screenshot/Karyawan/PengajuanAdvance.png)
+- [Screenshot Pengajuan Expense](screenshot/Karyawan/PengajuanExpanse.png)
+- [Screenshot Profil](screenshot/Karyawan/Profil.png)
+
 ## Panduan Penggunaan
 Silahkan hubungi kami di 2inotechno0@gmail.com jika membutuhkan source code secara lengkap.
