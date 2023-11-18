@@ -34,4 +34,6 @@ E-Budget App adalah aplikasi manajemen pengeluaran perusahaan yang memudahkan pe
 - [Screenshot Profil](screenshot/Karyawan/Profil.png)
 
 ## Panduan Penggunaan
-Silahkan hubungi kami di 2inotechno0@gmail.com jika membutuhkan source code secara lengkap.
+1. Clone repositori ini: `git clone https://github.com/inotechno/e-budget.git`
+2. Impor struktur database dari folder database.
+3. Konfigurasi file `application/config/database.php` untuk pengaturan koneksi database.
